@@ -4,9 +4,7 @@ export default function Hero() {
       <div className="max-w-content mx-auto w-full">
 
         {/* Eyebrow */}
-        <p className="label mb-8">
-          Frontend Engineer&nbsp;&nbsp;·&nbsp;&nbsp;Knowledge Systems&nbsp;&nbsp;·&nbsp;&nbsp;AI Workflows
-        </p>
+       
 
         {/* Headline */}
         <h1

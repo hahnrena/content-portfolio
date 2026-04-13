@@ -84,13 +84,6 @@ export default function Navigation() {
           })}
         </ul>
 
-        {/* Contact */}
-        <a
-          href="mailto:renabhahn@gmail.com"
-          className="text-sm text-ink-2 hover:text-ink transition-colors"
-        >
-          Contact
-        </a>
       </nav>
     </header>
   )

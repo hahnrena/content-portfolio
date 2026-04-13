@@ -27,9 +27,7 @@ export default function Home() {
         <div className="max-w-content mx-auto flex flex-col md:flex-row md:items-center justify-between gap-6">
           <div>
             <p className="text-ink font-medium text-sm mb-1">Rena Hahn</p>
-            <p className="text-ink-2 text-sm">
-              Frontend Engineer&nbsp;&nbsp;·&nbsp;&nbsp;Knowledge Systems&nbsp;&nbsp;·&nbsp;&nbsp;AI Workflows
-            </p>
+            
           </div>
           <div className="flex gap-8">
             <a
